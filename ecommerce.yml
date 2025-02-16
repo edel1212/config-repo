@@ -1,6 +1,6 @@
 # jwt setting
 token:
-  expiration-time: 4486400000
+  expiration-time: 77777777
   secret: asd123asdkz9xc8v123klxzc890234kljasd8213sd8
 
 gateway:
