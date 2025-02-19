@@ -1,7 +1,7 @@
 # jwt setting
 token:
   expiration-time: 123123123123123123
-  secret: "thisIsAVeryLongSecureSecretKeyForJWTAuthentication123!"
+  secret: "thisIsAVeryLongSecureSecretKeyForJWTAuthentication34929!"
 
 gateway:
   127.0.0.1
