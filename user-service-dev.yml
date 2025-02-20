@@ -1,0 +1,16 @@
+spring:
+  application:
+  # DB Setting
+    datasource:
+      url: jdbc:h2:mem:testdb  # H2 데이터베이스 설정
+      driver-class-name: org.h2.Driver
+      username: sa
+      password: "{ciper}7dbf10c1f7937423428dbdf2fc8d1b54fc45d28a48bfa065b8ff0c011b32908e"
+
+# jwt setting
+token:
+  expiration-time: 123123123123123123
+  secret: "thisIsAVeryLongSecureSecretKeyForJWTAuthentication34929!"
+
+gateway:
+  127.0.0.1
