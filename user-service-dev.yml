@@ -18,4 +18,4 @@ gateway:
 order_service:
 #  url: http://127.0.0.1:8000/order-service/%s/orders
    url: http://ORDER-SERVICE/order-service/%s/order
-   exception-not-foun: "not found  order service api request path"
+   exception_not_found: "not found  order service api request path"
