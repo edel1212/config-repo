@@ -9,7 +9,7 @@ spring:
 
 # jwt setting
 token:
-  expiration-time: 123123123123123123
+  expiration-time: 31536000000  # 1년 (365일)
   secret: "thisIsAVeryLongSecureSecretKeyForJWTAuthentication34929!"
 
 gateway:
