@@ -4,4 +4,5 @@ token:
   secret: "thisIsAVeryLongSecureSecretKeyForJWTAuthentication34929!"
 
 gateway:
-  127.0.0.1
+  ip: api-gateway-service
+
